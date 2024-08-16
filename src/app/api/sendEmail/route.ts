@@ -18,7 +18,7 @@ export const POST = async (request: NextRequest) => {
                 phone: emailTemplate.phone,
                 message: emailTemplate.message
             })
-        });
+        })
 
         if (error) {
             return Response.json({ error }, { status: 500 });
