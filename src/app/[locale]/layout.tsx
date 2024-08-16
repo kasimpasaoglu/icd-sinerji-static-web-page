@@ -6,6 +6,13 @@ import Footer from '@/components/footer/Footer';
 import { Suspense } from 'react';
 import Loading from './loading';
 
+export const generateMetadata = () => {
+    // Burada image leride open graph olarak eklenebilir 
+
+    return {
+        title: "ICD Sinerji"
+    }
+}
 
 export default async function LocaleLayout({
     children,
