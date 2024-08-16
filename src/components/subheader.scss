@@ -1,0 +1,11 @@
+.header {
+    @apply relative w-full h-64 bg-cover bg-center flex items-center justify-center;
+
+    .filter {
+        @apply absolute inset-0 bg-black/50 backdrop-blur-sm;
+    }
+
+    .header-title{
+        @apply relative z-10 text-primarylight text-center;
+    }
+}

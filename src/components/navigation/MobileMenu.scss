@@ -1,0 +1,35 @@
+.icd-mobile-menu {
+    @apply overflow-hidden duration-500 ease-in-out transition-all transform;
+
+    .wrapper {
+        @apply space-y-1;
+    }
+
+    .link-item {
+        @apply block rounded-md px-3 py-2 text-base font-medium text-white transition;
+
+        &.active {
+            @apply bg-primary;
+        }
+    }
+
+    .link-disclosure-button {
+        @apply flex justify-between w-full rounded-md px-3 py-2 text-base font-medium;
+
+        &.active {
+            @apply bg-primary;
+        }
+    }
+
+    .subitem-wrapper {
+        @apply overflow-hidden duration-500 ease-in-out;
+
+        .subitem-link {
+            @apply block rounded-md ml-5 px-3 py-2 text-base text-white transition;
+
+            &.active {
+                @apply bg-primary;
+            }
+        }
+    }
+}

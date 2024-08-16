@@ -1,0 +1,81 @@
+.footer-background::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 33.3333%;
+    bottom: 0;
+    width: 66.6667%;
+    background-color: hsl(205, 82%, 40%);
+    z-index: 0;
+}
+
+@media (max-width: 1024px) {
+    .footer-background::before {
+        display: none;
+    }
+}
+
+.footer-main-wrapper {
+    @apply relative bg-primarydark footer-background;
+
+    .footer-sub-wrapper {
+        @apply relative mx-auto max-w-7xl px-2 sm:px-6 lg:px-8 grid grid-cols-1 lg:grid-cols-3;
+
+        .contact-card-main-wrapper {
+            @apply p-6 z-10 col-span-1 bg-primarydark;
+        }
+
+        .last-projects-wrapper {
+            @apply p-6 col-span-1;
+
+            .last-projects-title {
+                @apply text-white;
+            }
+
+            .last-projects-line {
+                @apply border-gray-300 my-5;
+            }
+
+            .last-projects-sub-wrapper {
+                @apply grid grid-rows-3 gap-y-2;
+
+                .last-project-link {
+                    @apply row-span-1 grid grid-cols-3;
+
+                    .image-wrapper {
+
+                        @apply col-span-1 relative w-[80px] h-[80px];
+
+                        .last-projects-link-image {
+                            @apply rounded-md transition-transform duration-500 hover:scale-110;
+                        }
+
+                    }
+
+                    .last-projects-link-title {
+                        @apply text-white col-span-2 transition-all duration-200 hover:scale-105
+                    }
+                }
+            }
+        }
+        .q-links-wrapper {
+            @apply p-6 col-span-1;
+
+            .q-links-title {
+                @apply text-white;
+            }
+
+            .q-links-line {
+                @apply border-gray-300 my-5;
+            }
+            
+            .q-links-sub-wrapper {
+                @apply flex flex-col gap-6 flex-wrap max-h-64;
+
+                .q-links {
+                    @apply w-1/2 col-span-1 transition-all duration-200 hover:scale-105 hover:font-extrabold
+                }
+            }
+        }
+    }
+}

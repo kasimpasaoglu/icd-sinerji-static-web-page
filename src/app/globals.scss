@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 255, 255, 255;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgba: 255, 255, 255, 1;
+    --background-start-rgba: 255, 255, 255, 1;
+    --background-end-rgba: 0, 0, 0, 0.4;
+  }
+}
+
+body {
+  color: rgba(var(--foreground-rgba));
+  background: linear-gradient(to bottom,
+      transparent,
+      rgba(var(--background-end-rgba))) rgba(var(--background-start-rgba));
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+h1 {
+  @apply text-primarydark text-5xl font-bold md:text-7xl
+}
+
+h2 {
+  @apply text-primarydark text-3xl font-bold md:text-5xl
+}
+
+h3 {
+  @apply text-primarydark text-2xl font-bold md:text-4xl
+}
+
+h4 {
+  @apply text-primarydark text-2xl font-bold
+}
+
+h5 {
+  @apply text-primarydark text-lg font-bold
+}
+
+p {
+  @apply text-primarydark;
+}
+
+
+
+.slick-slide {
+  padding: 0 4px;
+  box-sizing: border-box;
+}

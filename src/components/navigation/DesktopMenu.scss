@@ -1,0 +1,44 @@
+.icd-desktop-menu {
+    @apply hidden sm:ml-6 lg:block;
+
+    .wrapper {
+        @apply flex gap-3;
+
+        .link-item {
+            @apply shadow-lg my-auto mx-auto text-center rounded-md px-3 py-2 text-sm font-medium hover:bg-primarylight;
+
+            &.active {
+                @apply bg-primary
+            }
+        }
+
+        .subwrapper {
+            @apply relative;
+
+            .sublink-button {
+                @apply shadow-lg rounded-md px-3 py-2 text-sm font-medium hover:bg-primarylight;
+
+                &.active {
+                    @apply bg-primary
+                }
+            }
+
+            .dropdown-arrow {
+                content: '';
+                position: absolute;
+                top: -10px;
+                left: 20px;
+                border-width: 0 10px 10px 10px;
+                border-style: solid;
+                border-color: transparent transparent #f3f4f6 transparent;
+            }
+            .sublink-item {
+                @apply block px-4 py-2 text-sm text-black rounded-md hover:bg-primarylight;
+
+                &.active {
+                    @apply bg-primary
+                }
+            }
+        }
+    }
+}

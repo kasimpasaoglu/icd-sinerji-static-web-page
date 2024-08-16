@@ -1,0 +1,214 @@
+{
+  "AnaSayfa": {
+    "title": "ICD Synergy Electric and Energy Systems",
+    "slogan": "Illuminating the Future with the Power of Renewable Energy..."
+  },
+  "Hizmetlerimiz": {
+    "title": "Services",
+    "description": "At İCD Sinerji Electric and Energy Systems, we provide comprehensive solutions in the field of renewable energy. From turnkey project implementation to remote monitoring and control, product supply, and maintenance services, we are with you at every stage of your energy projects. We are committed to delivering high-quality and reliable services by utilizing the latest technologies to meet your specific needs.",
+    "cards": [
+      {
+        "title": "Turnkey Facility Installation",
+        "description": "We manage all processes for your projects, from the initial idea to final implementation. With our EPC services, which cover engineering, procurement, and construction, we ensure the rapid and smooth commissioning of your facility. We adhere to legal regulations and carry out all operations with precision, ensuring high efficiency and long-lasting energy systems. Additionally, we offer continuous inspection and reporting services to mitigate potential risks, guaranteeing the safety of your investment.",
+        "image": "/assets/images/services/tesis-kurulumu.jpg",
+        "imageAlternate": "/assets/images/services/tesis-kurulumu2.jpg",
+        "href": "/en/hizmetlerimiz/anahtar-teslim",
+        "subDescription": "At the initial stage of project planning, we consider your energy needs and goals to create custom designs tailored to you. During the engineering phase, we utilize the latest technologies and best industry practices to design systems that will deliver optimum performance. In the procurement phase, we select high-quality and reliable products to ensure the installation of a long-lasting and efficient power plant. During the construction phase, we meticulously manage every step, from on-site work to installation and commissioning processes. On-time delivery and staying within budget are among our top priorities. After the project is completed, we conduct all necessary tests to ensure the system is commissioned and operating at full capacity. Throughout every stage of our turnkey projects, full compliance with legal regulations is ensured, and all necessary permits and documents are obtained without fail. We keep you informed at every step with continuous communication and detailed reporting, managing the project's progress transparently. As a result, we commission your energy production plant in the most efficient and secure manner, guaranteeing the long-term success of your investment."
+      },
+      {
+        "title": "Remote Monitoring and Control",
+        "description": "We offer advanced remote monitoring and control solutions to optimize the performance of your facility. With real-time data tracking, fault detection, and automatic reporting features, we make your energy production processes more efficient. You can monitor the status of your system instantly and intervene when necessary, ensuring minimal production losses and uninterrupted operation of your energy facility.",
+        "image": "/assets/images/services/izleme-kontrol.jpg",
+        "imageAlternate": "/assets/images/services/izleme-kontrol2.jpg",
+        "href": "/en/hizmetlerimiz/uzaktan-kontrol",
+        "subDescription": "Our remote monitoring and control systems are designed to enhance the operational efficiency of your power plant. You can monitor real-time performance data, conduct historical analyses, and detect potential issues in advance. With automatic alerts provided by our systems, you are immediately notified in cases of faults or performance drops. Additionally, we offer remote management capabilities to optimize your energy production data and reduce operational costs. This proactive approach ensures that your power plant operates at maximum capacity."
+      },
+      {
+        "title": "Product Supply",
+        "description": "We provide high-quality equipment for your renewable energy projects. With a wide supply network, we offer solar panels, inverters, mounting systems, and other components. At İCD Sinerji, we only work with reliable brands and ensure that your products are delivered as quickly as possible. We prioritize quality and sustainability in product supply, supporting the long-term success of your projects.",
+        "image": "/assets/images/services/urun-tedarigi.jpg",
+        "imageAlternate": "/assets/images/services/urun-tedarigi2.jpg",
+        "href": "/en/hizmetlerimiz/urun-tedarigi",
+        "subDescription": "In the supply process, we offer only the most reliable brands and the latest technologies in the industry. This ensures the durability and efficiency of your systems. At İCD Sinerji, we guarantee fast and seamless delivery of your products, ensuring uninterrupted progress on your projects. Furthermore, our supply chain processes prioritize sustainability and environmental responsibility. Thus, we not only provide high-quality products but also minimize the environmental impact of your projects."
+      },
+      {
+        "title": "Maintenance and Repair",
+        "description": "We offer regular maintenance and immediate repair services to ensure the seamless operation of your energy systems. Our professional team meticulously carries out all necessary maintenance procedures to maintain your system's performance. By quickly identifying and addressing potential faults, we prevent interruptions in energy production. Our emergency response teams provide 24/7 support, ensuring that your systems remain in optimal condition at all times.",
+        "image": "/assets/images/services/bakim-onarim.jpg",
+        "imageAlternate": "/assets/images/services/bakim-onarim2.jpg",
+        "href": "/en/hizmetlerimiz/bakim-onarim",
+        "subDescription": "Our maintenance and repair services are designed to ensure that your energy systems operate at peak efficiency. Regular maintenance extends the lifespan of your system and prevents unexpected failures. In case of malfunctions, our swift and effective intervention gets your system back online in no time. Our highly trained technical team is available 24/7 to resolve any issues. Additionally, we provide periodic maintenance reports and performance analyses to keep you informed about the condition of your system. This ensures continuity and safety in energy production."
+      }
+    ]
+  },
+  "Hakkimizda": {
+    "title": "About us",
+    "subTitle": "Get to Know Us",
+    "description": "İCD Sinerji Electric and Energy Systems was founded in 2020 by İbrahim Can Döver in Gaziantep. Our company specializes in providing renewable energy solutions, with a focus on solar energy systems. Our aim is to offer eco-friendly and economical energy solutions to help our customers reduce their energy costs and minimize their environmental impact. At İCD Sinerji, we strive to maintain our leading position in the industry through continuous innovation and quality service."
+  },
+  "Misyonumuz": {
+    "title": "Our Mission",
+    "subTitle": "The Path to Energy Independence",
+    "description": "At İCD Sinerji Electric and Energy Systems, our mission is to enhance energy independence and reduce costs through innovative solar energy solutions. In the long term, we aim to become a leader in renewable energy, promoting environmental sustainability and building a cleaner future."
+  },
+  "Vizyonumuz": {
+    "title": "Our Vision",
+    "subTitle": "Sustainable Solutions for the Future",
+    "description": "At İCD Sinerji Electric and Energy Systems, we aim to be a leading company in renewable energy solutions. Utilizing the most advanced technologies in solar energy systems, we strive to make the world a more livable place by offering sustainable and eco-friendly energy solutions. Our vision is built on meeting our customers' energy needs in the most efficient and economical way, minimizing environmental impacts, and leaving a clean world for future generations."
+  },
+  "Uygulamalar": {
+    "title": "Scope of Application",
+    "description": "There are numerous application areas where you can enhance your energy efficiency through the benefits of our renewable energy solutions. Each area allows you to reduce energy costs while minimizing your carbon footprint with our eco-friendly and sustainable energy systems. Below, you can explore the different sectors and areas where our solutions can be applied.",
+    "cards": [
+      {
+        "title": "Commercial Roof Applications",
+        "description": "Your roofs hold great potential to reduce the energy costs of your commercial enterprise. By utilizing solar energy systems, you can harness this space to generate your own electricity and achieve significant savings on your energy bills. Additionally, by producing energy from the sun, you can create a sustainable business profile and demonstrate your commitment to environmental responsibility. If your roof area is large enough, you can even generate extra income by selling excess energy back to the grid.",
+        "image": "/assets/images/applicationareas/commercial-roof-app.jpg"
+      },
+      {
+        "title": "Residential Applications",
+        "description": "Harnessing solar energy at home is a fantastic opportunity to increase your energy independence. With rising electricity prices, installing solar panels on your roof is now more accessible than ever. These systems not only help you reduce your electricity bills but also allow you to earn additional income by selling any excess energy you produce. By equipping your home with solar energy, you take a step towards environmental responsibility while also securing long-term financial benefits.",
+        "image": "/assets/images/applicationareas/residential-roof-app.jpg"
+      },
+      {
+        "title": "Land Applications",
+        "description": "If you have large areas of land, you can transform them into high-capacity solar power plants to generate significant amounts of energy. Solar energy investments are ideal for economically utilizing land that is not suitable for agricultural production or is currently idle. Additionally, you can benefit from long-term government incentives to secure a stable income in dollars. These systems provide flexibility in energy production while also contributing to environmental sustainability.",
+        "image": "/assets/images/applicationareas/land-app.jpg"
+      },
+      {
+        "title": "Agricultural Irrigation Applications",
+        "description": "You can eliminate energy costs by supporting your agricultural irrigation systems with solar energy. Whether sourcing water from lakes, rivers, or underground reserves, solar-powered pumps can efficiently deliver water to your fields. By increasing your energy independence, you also maximize agricultural productivity. These systems are custom-designed to meet the unique needs of each agricultural operation, serving as a key to sustainable farming and significantly reducing your costs in the long run.",
+        "image": "/assets/images/applicationareas/agricultural.jpg"
+      }
+    ]
+  },
+  "Referanslar": {
+    "title": "Referances",
+    "subTitle": "Partnerlerimiz",
+    "description": "Our innovative projects are applied across various areas that can enhance your business performance. Each project offers tailored solutions to meet your sector's needs, helping to increase efficiency while optimizing costs. Below, you can see examples of the projects we've completed.",
+    "projects": [
+      {
+        "title": "Transformer Periodic Maintenance Services",
+        "images": [
+          "/assets/images/projects/trafo/trafo1.jpeg",
+          "/assets/images/projects/trafo/trafo2.jpeg",
+          "/assets/images/projects/trafo/trafo3.jpeg"
+        ]
+      },
+      {
+        "title": "Project Commitment Services",
+        "images": [
+          "/assets/images/projects/projetaahut/proje1.jpg",
+          "/assets/images/projects/projetaahut/proje2.jpg",
+          "/assets/images/projects/projetaahut/proje3.jpg"
+        ]
+      },
+      {
+        "title": "Our Consultancy Services",
+        "images": [
+          "/assets/images/projects/danismanlik/danisman1.png",
+          "/assets/images/projects/danismanlik/danisman2.png",
+          "/assets/images/projects/danismanlik/danisman3.png"
+        ]
+      },
+      {
+        "title": "Residential Roof Applications",
+        "images": [
+          "/assets/images/projects/mesken/mesken1.jpeg",
+          "/assets/images/projects/mesken/mesken2.jpeg",
+          "/assets/images/projects/mesken/mesken3.jpeg",
+          "/assets/images/projects/mesken/mesken4.jpeg",
+          "/assets/images/projects/mesken/mesken5.jpeg",
+          "/assets/images/projects/mesken/mesken6.jpeg",
+          "/assets/images/projects/mesken/mesken7.jpeg",
+          "/assets/images/projects/mesken/mesken8.jpeg",
+          "/assets/images/projects/mesken/mesken9.jpeg"
+        ]
+      },
+      {
+        "title": "Agricultural Irrigation Applications",
+        "images": [
+          "/assets/images/projects/tarimsal/tarimsal1.jpeg",
+          "/assets/images/projects/tarimsal/tarimsal2.jpeg",
+          "/assets/images/projects/tarimsal/tarimsal3.jpeg",
+          "/assets/images/projects/tarimsal/tarimsal4.jpeg"
+        ]
+      },
+      {
+        "title": "Commercial Roof Applications",
+        "images": [
+          "/assets/images/projects/ticari/ticari1.jpeg",
+          "/assets/images/projects/ticari/ticari2.jpeg",
+          "/assets/images/projects/ticari/ticari3.jpeg",
+          "/assets/images/projects/ticari/ticari4.jpeg",
+          "/assets/images/projects/ticari/ticari5.jpeg",
+          "/assets/images/projects/ticari/ticari6.jpeg"
+        ]
+      }
+    ]
+  },
+  "Partnerlerimiz": {
+    "title": "Our Partners",
+    "description": "We believe in the power of strong partnerships to achieve success. By collaborating with industry-leading partners who provide advanced technologies and innovative solutions, we aim to deliver the highest quality service to our customers.",
+    "logos": [
+      "/assets/images/partners/astor.png",
+      "/assets/images/partners/daxler.png",
+      "/assets/images/partners/elin.png",
+      "/assets/images/partners/hes.png",
+      "/assets/images/partners/his.png",
+      "/assets/images/partners/huawei.png",
+      "/assets/images/partners/isotech.png",
+      "/assets/images/partners/nexans.png",
+      "/assets/images/partners/oznur.png",
+      "/assets/images/partners/prysmian.png",
+      "/assets/images/partners/schmid.png",
+      "/assets/images/partners/staubli.png",
+      "/assets/images/partners/weidmuller.png"
+    ]
+  },
+  "Iletisim": {
+    "title": "Contact",
+    "subTitle": "You can send your requests and complaints through the Contact Form"
+  },
+  "Form": {
+    "title": "Get in Touch",
+    "subTitle": "You can send your wishes and complaints via the Contact Form",
+    "namePlaceholder": "Name & Surname",
+    "emailPlaceholder": "Email Address",
+    "emailTitle": "Please enter a valid email address",
+    "phonePlaceholder": "Phone Number",
+    "phoneTitle": "Please enter a valid phone number",
+    "subjectPlaceholder": "Subject",
+    "messagePlaceholder": "Message",
+    "submit": "Send",
+    "success": "Your message has been sent successfully. We will contact you as soon as possible.",
+    "fail": "Your message could not be sent. Please try again later."
+  },
+  "Adres": {
+    "contactTitle": "Our Contact Information",
+    "contactSubtitle": "ICD Synergy Electric and Energy Systems",
+    "address": "Mücahitler Neighborhood, 52008th Street, No:3/K, Postal Code: 27090 Şehitkamil / GAZIANTEP, Turkey",
+    "phone": "+90(536)712 54 40",
+    "mail": "info@icdsinerji.com",
+    "socialmedia": "Stay Tuned"
+  },
+  "Common": {
+    "AnaSayfa": "Home Page",
+    "Hizmetlerimiz": "Services",
+    "Kurumsal": "Institutional",
+    "Hakkimizda": "About Us",
+    "Misyonumuz": "Our Mission",
+    "Vizyonumuz": "Our Vision",
+    "Uygulamalar": "Scope of Application",
+    "Referanslar": "Referances",
+    "Partnerlerimiz": "Our Partners",
+    "Iletisim": "Contact",
+    "projectsTitle": "Projects",
+    "linksTitle": "Quick Links"
+  },
+  "SocialMedia": {
+    "instagram": "https://www.instagram.com/",
+    "linkedIn": "https://tr.linkedin.com/in/ibrahim-can-d%C3%B6ver-797435156",
+    "whatsapp": "https://wa.me/905367125440"
+  }
+}

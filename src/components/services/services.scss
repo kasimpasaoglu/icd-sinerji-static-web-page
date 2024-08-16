@@ -1,0 +1,37 @@
+.main-grid {
+    @apply max-w-7xl min-h-screen mx-auto grid grid-cols-1 lg:grid-cols-2 gap-2 p-2 my-5;
+
+    .services-text {
+        @apply py-10 px-16 my-8 shadow-lg rounded-lg italic;
+    }
+}
+
+.sub-grid {
+    @apply h-full grid grid-cols-1 lg:grid-cols-3 gap-4 p-4 mx-auto max-w-7xl;
+
+    .sub-aside {
+        @apply col-span-1 grid grid-rows-2 gap-4;
+
+        .aside-links {
+            @apply bg-gray-100 p-4 rounded-lg h-full;
+        }
+
+        .aside-image-wrapper {
+            @apply bg-gray-100 p-1 rounded-lg h-full;
+        }
+    }
+
+    .sub-article {
+        @apply h-full col-span-1 lg:col-span-2 grid grid-rows-[auto,1fr,auto] gap-4;
+
+        .description {
+            @apply bg-gray-100 p-4 rounded-lg;
+        }
+
+        .main-image-wrapper {
+            @apply relative bg-gray-100 w-full h-full rounded-lg overflow-hidden;
+        }
+    }
+}
+
+

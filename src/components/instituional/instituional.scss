@@ -1,0 +1,33 @@
+.main-grid-aboutus {
+    @apply max-w-7xl grid grid-cols-1 lg:grid-cols-3 gap-3 my-8;
+
+    .left-col-animated {
+        @apply p-7 shadow-xl h-full rounded-xl;
+
+        .content {
+            @apply flex flex-col justify-center gap-4;
+
+            .sub-title {
+                @apply text-primarydark my-4;
+
+            }
+
+            .links {
+                @apply flex justify-evenly items-center text-primarylight h-full text-lg my-auto;
+
+                .link-items {
+                    @apply hover:bg-primarydark hover:text-white hover:shadow-lg p-2 rounded-xl transition-all duration-300;
+                }
+            }
+        }
+    }
+
+    .right-col-wrapper {
+        @apply col-span-1 lg:col-span-2 h-full;
+
+        .right-col-animated {
+            @apply shadow-xl p-2 lg:p-9 h-full rounded-xl;
+
+        }
+    }
+}

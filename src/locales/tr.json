@@ -1,0 +1,214 @@
+{
+  "AnaSayfa": {
+    "title": "İCD Sinerji Elektrik ve Enerji Sistemleri",
+    "slogan": "Yenilenebilir Enerjinin Gücüyle Aydınlık Bir Gelecek..."
+  },
+  "Hizmetlerimiz": {
+    "title": "Hizmetlerimiz",
+    "description": "İCD Sinerji Elektrik ve Enerji Sistemleri olarak, müşterilerimize yenilenebilir enerji alanında kapsamlı çözümler sunuyoruz. Enerji projelerinizin her aşamasında yanınızda olarak, anahtar teslim tesis kurulumu, uzaktan izleme ve kontrol, ürün tedariği, bakım ve onarım gibi hizmetlerle ihtiyaçlarınıza en uygun çözümleri sağlıyoruz. Her projede en ileri teknolojileri kullanarak, kaliteli ve güvenilir hizmet sunmayı taahhüt ediyoruz.",
+    "cards": [
+      {
+        "title": "Anahtar Teslim Tesis Kurulumu",
+        "description": "Projelerinizin en başından sonuna kadar, tüm süreçleri sizin için yönetiyoruz. Mühendislik, tedarik ve inşaat aşamalarını kapsayan EPC hizmetlerimizle, santralinizin hızlı ve sorunsuz bir şekilde devreye alınmasını sağlıyoruz. Yasal mevzuatlara uygun olarak yapılan işlemler ve alanında uzman ekibimizin titiz çalışmalarıyla, yüksek verimlilik ve uzun ömürlü enerji sistemleri kuruyoruz. Ayrıca, olası risklerin önüne geçmek için sürekli denetim ve raporlama hizmetleri sunarak, yatırımınızın güvenliğini garanti altına alıyoruz.",
+        "image": "/assets/images/services/tesis-kurulumu.jpg",
+        "imageAlternate": "/assets/images/services/tesis-kurulumu2.jpg",
+        "href": "/tr/hizmetlerimiz/anahtar-teslim",
+        "subDescription": "Proje planlamasının ilk aşamasında, enerji ihtiyaçlarınızı ve hedeflerinizi dikkate alarak, size özel tasarımlar oluşturuyoruz. Mühendislik aşamasında, en son teknolojileri ve sektörün en iyi uygulamalarını kullanarak, optimum performans sağlayacak sistemler tasarlıyoruz. Tedarik sürecinde, yüksek kaliteli ve güvenilir ürünleri seçerek, uzun ömürlü ve verimli bir santral kurulumunu garanti altına alıyoruz. İnşaat aşamasında, saha çalışmalarından kurulum ve devreye alma süreçlerine kadar her adımı titizlikle yönetiyoruz. Zamanında teslimat ve bütçe içinde kalmak en büyük önceliklerimiz arasında yer alıyor. Proje tamamlandıktan sonra, sistemin devreye alınması ve tam kapasiteyle çalışmaya başlaması için gerekli tüm testleri gerçekleştiriyoruz. Anahtar teslim projelerimizin her aşamasında, yasal düzenlemelere tam uyum sağlanarak, gerekli tüm izinler ve belgeler eksiksiz olarak temin edilir. Sürekli iletişim ve detaylı raporlama ile sizi her adımda bilgilendiriyor ve projenin ilerleyişini şeffaf bir şekilde yönetiyoruz. Sonuç olarak, enerji üretim santralinizi en verimli ve güvenli şekilde devreye alıyor, yatırımınızın uzun vadeli başarısını garanti altına alıyoruz."
+      },
+      {
+        "title": "Uzaktan İzleme ve Kontrol",
+        "description": "Santralinizin performansını en üst düzeye çıkarmak için gelişmiş uzaktan izleme ve kontrol çözümleri sunuyoruz. Gerçek zamanlı veri takibi, arıza tespiti ve otomatik raporlama gibi özelliklerle, enerji üretim süreçlerinizi daha verimli hale getiriyoruz. Uzaktan erişimle, sisteminizin durumunu anında izleyebilir ve gerektiğinde müdahalede bulunabilirsiniz. Böylece, üretim kayıplarını minimize ederken, enerji santralinizin kesintisiz çalışmasını sağlıyoruz.",
+        "image": "/assets/images/services/izleme-kontrol.jpg",
+        "imageAlternate": "/assets/images/services/izleme-kontrol2.jpg",
+        "href": "/tr/hizmetlerimiz/uzaktan-kontrol",
+        "subDescription": "Uzaktan izleme ve kontrol sistemlerimiz, enerji santralinizin operasyonel verimliliğini artırmak için tasarlanmıştır. Anlık performans verilerini izleyebilir, geçmişe yönelik analizler yapabilir ve potansiyel sorunları önceden tespit edebilirsiniz. Sistemlerimizin sunduğu otomatik uyarılar sayesinde, arıza veya performans düşüklüğü gibi durumlarda anında haberdar olursunuz. Ayrıca, enerji üretim verilerinizi optimize etmek ve operasyonel maliyetlerinizi azaltmak için sisteminizi uzaktan yönetme imkanı sunuyoruz. Böylece, enerji santralinizin maksimum kapasite ile çalışmasını sağlamak adına proaktif bir yaklaşım benimsemiş olursunuz."
+      },
+      {
+        "title": "Ürün Tedariği",
+        "description": "Yenilenebilir enerji projelerinizde ihtiyaç duyduğunuz yüksek kaliteli ekipmanları sizlere sunuyoruz. Güneş panelleri, inverterler, montaj sistemleri ve diğer bileşenler için geniş bir tedarik ağına sahibiz. İCD Sinerji olarak, sadece güvenilir markalarla çalışıyor ve ürünlerinizi en kısa sürede temin ediyoruz. Ürün tedariğinde kaliteyi ve sürdürülebilirliği ön planda tutarak, projelerinizin uzun vadeli başarısını destekliyoruz.",
+        "image": "/assets/images/services/urun-tedarigi.jpg",
+        "imageAlternate": "/assets/images/services/urun-tedarigi2.jpg",
+        "href": "/tr/hizmetlerimiz/urun-tedarigi",
+        "subDescription": "Tedarik sürecinde, yalnızca sektörün en güvenilir markalarını ve en yeni teknolojileri sizlere sunuyoruz. Bu sayede, sistemlerinizin dayanıklılığını ve verimliliğini en üst düzeye çıkarıyoruz. İCD Sinerji olarak, ürünlerinizi hızlı ve sorunsuz bir şekilde temin ediyor, projelerinizin kesintisiz devam etmesini sağlıyoruz. Ayrıca, tedarik zinciri süreçlerimizde sürdürülebilirlik ve çevresel duyarlılık ön planda tutulmaktadır. Böylece, yalnızca kaliteli ürünler temin etmekle kalmıyor, aynı zamanda projelerinizin çevresel etkilerini de minimize ediyoruz."
+      },
+      {
+        "title": "Bakım ve Onarım",
+        "description": "Enerji sistemlerinizin sorunsuz çalışmasını sağlamak için düzenli bakım ve anında onarım hizmetleri sunuyoruz. Profesyonel ekibimiz, sisteminizin performansını korumak için gerekli tüm bakım işlemlerini titizlikle gerçekleştirir. Olası arızaların tespit edilmesi ve hızlıca giderilmesi sayesinde, enerji üretiminde kesintilerin önüne geçiyoruz. Acil durum müdahale ekiplerimiz, 7/24 hizmet vererek, sistemlerinizin sürekli olarak en iyi durumda kalmasını sağlıyor.",
+        "image": "/assets/images/services/bakim-onarim.jpg",
+        "imageAlternate": "/assets/images/services/bakim-onarim2.jpg",
+        "href": "/tr/hizmetlerimiz/bakim-onarim",
+        "subDescription": "Bakım ve onarım hizmetlerimiz, enerji sistemlerinizin en yüksek verimlilikle çalışmasını sağlamak için tasarlanmıştır. Düzenli olarak yapılan bakım işlemleri, sisteminizin ömrünü uzatır ve beklenmedik arızaların önüne geçer. Arıza durumlarında ise, hızlı ve etkili müdahalemizle, sisteminizi kısa sürede tekrar devreye alıyoruz. Yüksek eğitimli teknik ekibimiz, her türlü sorunu çözmek için 7/24 hizmet vermektedir. Ayrıca, periyodik bakım raporları ve performans analizleri ile sisteminizin durumu hakkında sizi sürekli bilgilendiriyoruz. Böylece, enerji üretiminde sürekliliği ve güvenliği sağlamış oluyoruz."
+      }
+    ]
+  },
+  "Hakkimizda": {
+    "title": "Hakkımızda",
+    "subTitle": "Bizi Tanıyın",
+    "description": "İCD Sinerji Elektrik ve Enerji Sistemleri, 2020 yılında İbrahim Can Döver tarafından Gaziantep'te kurulmuştur. Yenilenebilir enerji çözümleri sunan firmamız, özellikle güneş enerjisi sistemleri konusunda uzmanlaşmıştır. Amacımız, müşterilerimize çevre dostu ve ekonomik enerji çözümleri sunarak, enerji maliyetlerini düşürmelerine ve çevresel etkilerini azaltmalarına yardımcı olmaktır. İCD Sinerji olarak, sürekli yenilikçi ve kaliteli hizmet anlayışımızla sektördeki lider konumumuzu sürdürmeyi hedefliyoruz.",
+    "image": "/assets/images/services/bakim-onarim.jpg"
+  },
+  "Misyonumuz": {
+    "title": "Misyonumuz",
+    "subTitle": "Enerji Bağımsızlığına Giden Yol",
+    "description": "İCD Sinerji Elektrik ve Enerji Sistemleri olarak misyonumuz, yenilikçi güneş enerjisi çözümleriyle enerji bağımsızlığını artırmak ve maliyetleri düşürmektir. Uzun vadede, çevresel sürdürülebilirliği teşvik ederek, yenilenebilir enerji alanında lider olmayı ve daha temiz bir gelecek inşa etmeyi hedefliyoruz."
+  },
+  "Vizyonumuz": {
+    "title": "Vizyonumuz",
+    "subTitle": "Gelecek İçin Sürdürülebilir Çözümler",
+    "description": "İCD Sinerji Elektrik ve Enerji Sistemleri olarak, yenilenebilir enerji çözümlerinde lider bir firma olmayı hedefliyoruz. Güneş enerjisi sistemlerinde en ileri teknolojileri kullanarak, sürdürülebilir ve çevre dostu enerji çözümleri sunarak dünyayı daha yaşanabilir bir yer haline getirmeyi amaçlıyoruz. Müşterilerimizin enerji ihtiyaçlarını en verimli ve ekonomik şekilde karşılamak, çevresel etkileri minimize etmek ve gelecek nesillere temiz bir dünya bırakmak vizyonumuzun temel taşlarıdır."
+  },
+  "Uygulamalar": {
+    "title": "Uygulama Alanlari",
+    "description": "Yenilenebilir enerji çözümlerimizin sağladığı faydalarla, enerji verimliliğinizi artırabileceğiniz birçok uygulama alanı bulunmaktadır. Her bir alan, çevre dostu ve sürdürülebilir enerji sistemlerimizle, enerji maliyetlerinizi azaltırken karbon ayak izinizi de minimuma indirmenize olanak tanır. Aşağıda, sunduğumuz çözümlerin uygulanabileceği farklı sektör ve alanları bulabilirsiniz.",
+    "cards": [
+      {
+        "title": "Ticari Çatı Uygulamaları",
+        "description": "Çatılarınız, ticari işletmenizin enerji maliyetlerini azaltmak için büyük bir potansiyel taşır. Güneş enerjisi sistemleri ile bu alanları değerlendirerek kendi elektriğinizi üretebilir, enerji faturalarınızda önemli ölçüde tasarruf sağlayabilirsiniz. Ayrıca, güneşten elde edilen enerji ile sürdürülebilir bir işletme profili oluşturabilir, çevreye duyarlılığınızı gösterebilirsiniz. Eğer çatı alanınız yeterli büyüklükteyse, ihtiyaç fazlası enerjiyi şebekeye satarak işletmenize ek bir gelir kaynağı yaratabilirsiniz.",
+        "image": "/assets/images/applicationareas/commercial-roof-app.jpg"
+      },
+      {
+        "title": "Mesken Uygulamaları",
+        "description": "Evlerinizde güneş enerjisinden faydalanmak, enerji bağımsızlığınızı artırmak için harika bir fırsattır. Artan elektrik fiyatlarına karşı, çatınıza kurulan solar panellerle kendi elektriğinizi üretmek artık çok daha erişilebilir. Bu sistemler, yalnızca elektrik faturalarınızı düşürmekle kalmaz, aynı zamanda fazla ürettiğiniz enerjiyi satarak ek gelir elde etmenizi de sağlar. Güneş enerjisi ile evinizi donatarak, hem çevreye duyarlı bir adım atabilir hem de uzun vadede finansal avantajlar elde edebilirsiniz.",
+        "image": "/assets/images/applicationareas/residential-roof-app.jpg"
+      },
+      {
+        "title": "Arazi Uygulamaları",
+        "description": "Geniş arazi alanlarınız varsa, bu alanları solar enerji santrallerine dönüştürerek yüksek kapasiteli enerji üretimi sağlayabilirsiniz. Solar enerji yatırımları, tarımsal verimliliği düşük veya atıl durumda olan arazilerinizi ekonomik olarak değerlendirmek için ideal bir yoldur. Ayrıca, uzun vadeli devlet teşviklerinden yararlanarak, dolar bazında sabit gelir elde edebilirsiniz. Bu sistemler, enerji üretiminde esneklik sağlarken, çevresel sürdürülebilirliğe de katkıda bulunur.",
+        "image": "/assets/images/applicationareas/land-app.jpg"
+      },
+      {
+        "title": "Tarımsal Sulama Uygulamaları",
+        "description": "Güneş enerjisi ile tarımsal sulama sistemlerinizi destekleyerek, enerji maliyetlerinizi sıfıra indirebilirsiniz. Göller, akarsular veya yeraltı sularından sağladığınız suyu, güneş enerjisi ile çalışan pompalar sayesinde tarlalarınıza ulaştırabilirsiniz. Bu sayede, enerji bağımsızlığınızı artırırken, tarımsal verimliliği de maksimum seviyeye çıkarabilirsiniz. Her tarımsal işletmenin ihtiyaçlarına göre özel olarak tasarlanan bu sistemler, sürdürülebilir tarımın anahtarıdır ve uzun vadede maliyetlerinizi önemli ölçüde azaltır.",
+        "image": "/assets/images/applicationareas/agricultural.jpg"
+      }
+    ]
+  },
+  "Referanslar": {
+    "title": "Referanslarimiz",
+    "description": "Yenilikçi projelerimiz, işletmenizin performansını artırabilecek birçok alanda uygulanmaktadır. Her bir proje, sektörel ihtiyaçlarınıza uygun çözümler sunarak, verimliliği artırırken maliyetlerinizi de optimize etmenize olanak tanır. Aşağıda, gerçekleştirdiğimiz projelere dair örnekleri görebilirsiniz.",
+    "projects": [
+      {
+        "title": "Trafo Periyodik Bakım Hizmetleri",
+        "images": [
+          "/assets/images/projects/trafo/trafo1.jpeg",
+          "/assets/images/projects/trafo/trafo2.jpeg",
+          "/assets/images/projects/trafo/trafo3.jpeg"
+        ]
+      },
+      {
+        "title": "Proje Taahhüt Hizmetleri",
+        "images": [
+          "/assets/images/projects/projetaahut/proje1.jpg",
+          "/assets/images/projects/projetaahut/proje2.jpg",
+          "/assets/images/projects/projetaahut/proje3.jpg"
+        ]
+      },
+      {
+        "title": "Danışmanlık Hizmetlerimiz",
+        "images": [
+          "/assets/images/projects/danismanlik/danisman1.png",
+          "/assets/images/projects/danismanlik/danisman2.png",
+          "/assets/images/projects/danismanlik/danisman3.png"
+        ]
+      },
+      {
+        "title": "Mesken Çatı Uygulamaları",
+        "images": [
+          "/assets/images/projects/mesken/mesken1.jpeg",
+          "/assets/images/projects/mesken/mesken2.jpeg",
+          "/assets/images/projects/mesken/mesken3.jpeg",
+          "/assets/images/projects/mesken/mesken4.jpeg",
+          "/assets/images/projects/mesken/mesken5.jpeg",
+          "/assets/images/projects/mesken/mesken6.jpeg",
+          "/assets/images/projects/mesken/mesken7.jpeg",
+          "/assets/images/projects/mesken/mesken8.jpeg",
+          "/assets/images/projects/mesken/mesken9.jpeg"
+        ]
+      },
+      {
+        "title": "Tarımsal Sulama Uygulamaları",
+        "images": [
+          "/assets/images/projects/tarimsal/tarimsal1.jpeg",
+          "/assets/images/projects/tarimsal/tarimsal2.jpeg",
+          "/assets/images/projects/tarimsal/tarimsal3.jpeg",
+          "/assets/images/projects/tarimsal/tarimsal4.jpeg"
+        ]
+      },
+      {
+        "title": "Ticari Çatı Uygulamaları",
+        "images": [
+          "/assets/images/projects/ticari/ticari1.jpeg",
+          "/assets/images/projects/ticari/ticari2.jpeg",
+          "/assets/images/projects/ticari/ticari3.jpeg",
+          "/assets/images/projects/ticari/ticari4.jpeg",
+          "/assets/images/projects/ticari/ticari5.jpeg",
+          "/assets/images/projects/ticari/ticari6.jpeg"
+        ]
+      }
+    ]
+  },
+  "Partnerlerimiz": {
+    "title": "Is Ortaklarimiz",
+    "description": "Başarıya ulaşmak için güçlü iş ortaklıklarına inanıyoruz. Gelişmiş teknolojiler ve yenilikçi çözümler sunan, alanlarında lider partnerlerimizle birlikte çalışarak, müşterilerimize en yüksek kalitede hizmet sunmayı hedefliyoruz.",
+    "logos": [
+      "/assets/images/partners/astor.png",
+      "/assets/images/partners/daxler.png",
+      "/assets/images/partners/elin.png",
+      "/assets/images/partners/hes.png",
+      "/assets/images/partners/his.png",
+      "/assets/images/partners/huawei.png",
+      "/assets/images/partners/isotech.png",
+      "/assets/images/partners/nexans.png",
+      "/assets/images/partners/oznur.png",
+      "/assets/images/partners/prysmian.png",
+      "/assets/images/partners/schmid.png",
+      "/assets/images/partners/staubli.png",
+      "/assets/images/partners/weidmuller.png"
+    ]
+  },
+  "Iletisim": {
+    "title": "İletişim",
+    "subTitle": "İletişim Formundan İstek ve Şikayetlerinizi Gönderebilirsiniz"
+  },
+  "Form": {
+    "title": "İletişime Geç",
+    "subTitle": "İletişim Formundan Dilek ve Şikayetlerinizi Gönderebilirsiniz",
+    "namePlaceholder": "Adınız & Soyadınız",
+    "emailPlaceholder": "E-Posta Adresiniz",
+    "emailTitle": "Lütfen geçerli bir e-posta adresi giriniz",
+    "phonePlaceholder": "Telefon Numaranız",
+    "phoneTitle": "Lütfen geçerli bir telefon numarası giriniz",
+    "subjectPlaceholder": "Konu",
+    "messagePlaceholder": "Mesajınız",
+    "submit": "Gönder",
+    "success": "Mesajınız başarıyla iletildi. En kısa sürede sizinle iletişime geçeceğiz.",
+    "fail": "Mesajınız iletilemedi. Lütfen daha sonra tekrar deneyiniz."
+  },
+  "Adres": {
+    "contactTitle": "İletişim Bilgilerimiz",
+    "contactSubtitle": "İCD Sinerji Elektrik ve Enerji Sistemleri",
+    "address": "Mücahitler Mahallesi, 52008. Cadde, No:3/K Posta Kodu: 27090 Şehitkamil / GAZİANTEP",
+    "phone": "+90(536)712 54 40",
+    "mail": "info@icdsinerji.com",
+    "socialmedia": "Takipte Kalın"
+  },
+  "Common": {
+    "AnaSayfa": "Ana Sayfa",
+    "Hizmetlerimiz": "Hizmetlerimiz",
+    "Kurumsal": "Kurumsal",
+    "Hakkimizda": "Hakkımızda",
+    "Misyonumuz": "Misyonumuz",
+    "Vizyonumuz": "Vizyonumuz",
+    "Uygulamalar": "Uygulama Alanları",
+    "Referanslar": "Referanslarımız",
+    "Partnerlerimiz": "İş Ortaklarımız",
+    "Iletisim": "İletişim",
+    "projectsTitle": "Projeler",
+    "linksTitle": "Hızlı Linkler"
+  },
+  "SocialMedia": {
+    "instagram": "https://www.instagram.com/",
+    "linkedIn": "https://tr.linkedin.com/in/ibrahim-can-d%C3%B6ver-797435156",
+    "whatsapp": "https://wa.me/905367125440"
+  }
+}

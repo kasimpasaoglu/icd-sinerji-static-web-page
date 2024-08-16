@@ -1,0 +1,32 @@
+.control {
+    @apply flex transition top-0 absolute bg-transparent justify-center flex-col h-full m-2 px-4 md:px-8 z-30 hover:bg-slate-300/25 rounded-md hover:shadow;
+
+    &.left {
+        @apply left-0;
+    }
+
+    &.right {
+        @apply right-0;
+    }
+}
+
+.hero {
+    @apply uppercase leading-[80px] text-primary;
+    font-family: 'Lato', sans-serif;
+    margin: 8rem;
+    font-family: verdana;
+}
+
+.text3d {
+    text-shadow:
+        1px 1px 1px hsl(205, 82%, 60%),
+        -1px -1px 0 hsl(205, 82%, 40%),
+        -2px -2px 0 hsl(205, 82%, 35%),
+        -3px -3px 0 hsl(205, 82%, 30%),
+        -4px -4px 0 hsl(205, 82%, 25%),
+        -5px -5px 0 hsl(205, 82%, 20%),
+        -6px -6px 0 hsl(205, 82%, 15%),
+        -8px -8px 3px rgba(0, 0, 0, 0.9),
+        -10px -10px 4px rgba(0, 0, 0, 0.3),
+        -12px -12px 5px rgba(0, 0, 0, 0.5);
+}

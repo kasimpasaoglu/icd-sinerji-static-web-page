@@ -1,0 +1,12 @@
+
+.main-wrapper {
+    @apply max-w-7xl min-h-screen mx-auto grid grid-cols-1 lg:grid-cols-2 gap-2 p-2 my-5;
+
+    .text-wraper {
+        @apply col-span-1 lg:col-span-2 mt-12 animate-fadeIn py-10 px-16 my-8 shadow-lg rounded-lg italic;
+    }
+
+    .card-wrapper {
+        @apply w-full my-5 gap-2 p-2;
+    }
+}
