@@ -58,7 +58,7 @@
     "description": "İCD Sinerji Elektrik ve Enerji Sistemleri olarak, yenilenebilir enerji çözümlerinde lider bir firma olmayı hedefliyoruz. Güneş enerjisi sistemlerinde en ileri teknolojileri kullanarak, sürdürülebilir ve çevre dostu enerji çözümleri sunarak dünyayı daha yaşanabilir bir yer haline getirmeyi amaçlıyoruz. Müşterilerimizin enerji ihtiyaçlarını en verimli ve ekonomik şekilde karşılamak, çevresel etkileri minimize etmek ve gelecek nesillere temiz bir dünya bırakmak vizyonumuzun temel taşlarıdır."
   },
   "Uygulamalar": {
-    "title": "Uygulama Alanlari",
+    "title": "Uygulama Alanları",
     "description": "Yenilenebilir enerji çözümlerimizin sağladığı faydalarla, enerji verimliliğinizi artırabileceğiniz birçok uygulama alanı bulunmaktadır. Her bir alan, çevre dostu ve sürdürülebilir enerji sistemlerimizle, enerji maliyetlerinizi azaltırken karbon ayak izinizi de minimuma indirmenize olanak tanır. Aşağıda, sunduğumuz çözümlerin uygulanabileceği farklı sektör ve alanları bulabilirsiniz.",
     "cards": [
       {
@@ -84,7 +84,7 @@
     ]
   },
   "Referanslar": {
-    "title": "Referanslarimiz",
+    "title": "Referanslarımız",
     "description": "Yenilikçi projelerimiz, işletmenizin performansını artırabilecek birçok alanda uygulanmaktadır. Her bir proje, sektörel ihtiyaçlarınıza uygun çözümler sunarak, verimliliği artırırken maliyetlerinizi de optimize etmenize olanak tanır. Aşağıda, gerçekleştirdiğimiz projelere dair örnekleri görebilirsiniz.",
     "projects": [
       {
@@ -148,7 +148,7 @@
     ]
   },
   "Partnerlerimiz": {
-    "title": "Is Ortaklarimiz",
+    "title": "İş Ortaklarımız",
     "description": "Başarıya ulaşmak için güçlü iş ortaklıklarına inanıyoruz. Gelişmiş teknolojiler ve yenilikçi çözümler sunan, alanlarında lider partnerlerimizle birlikte çalışarak, müşterilerimize en yüksek kalitede hizmet sunmayı hedefliyoruz.",
     "logos": [
       "/assets/images/partners/astor.png",

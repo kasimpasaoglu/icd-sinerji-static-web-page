@@ -49,8 +49,8 @@ const Navbar = ({ locale }: NavbarProps) => {
                                 <DisclosureButton className="group inline-flex relative lg:hidden items-center justify-center rounded-md p-2 ring-2 ring-inset ring-white bg-primary">
                                     <span className="absolute -inset-0.5" />
                                     <span className="sr-only">Open main menu</span>
-                                    <Bars3Icon aria-hidden="true" className="block h-6 w-6 group-data-[open]:hidden" />
-                                    <XMarkIcon aria-hidden="true" className="hidden h-6 w-6 group-data-[open]:block" />
+                                    <Bars3Icon aria-hidden="true" className="text-white block h-6 w-6 group-data-[open]:hidden" />
+                                    <XMarkIcon aria-hidden="true" className="text-white hidden h-6 w-6 group-data-[open]:block" />
                                 </DisclosureButton>
                                 <div className="flex flex-shrink-0 items-center relative w-20 h-10">
                                     <Image

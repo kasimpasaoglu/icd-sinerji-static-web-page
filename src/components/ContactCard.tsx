@@ -30,17 +30,17 @@ const ContactCard = ({ className = "p-6 z-10 col-span-1 bg-primarydark" }: Conta
 
             <div className="flex mb-4">
                 <MapPinIcon className="flex-none w-5 h-5 mr-2" />
-                <span>{f('address')}</span>
+                <span className='text-white'>{f('address')}</span>
             </div>
 
             <div className="flex text-white mb-4">
                 <PhoneIcon className="flex-none w-5 h-5 mr-2" />
-                <span>{f('phone')}</span>
+                <span className='text-white'>{f('phone')}</span>
             </div>
 
             <div className="flex text-white mb-4">
                 <EnvelopeIcon className="flex-none w-5 h-5 mr-2" />
-                <span>{f('mail')}</span>
+                <span className='text-white'>{f('mail')}</span>
             </div>
 
             <div className="flex space-x-4">
