@@ -30,7 +30,7 @@ const LanguageSelector = () => {
                 {CurrentFlag}
                 <ChevronDownIcon className={clsx(open && "-rotate-180", "transition size-4 fill-white/60")} />
             </button>
-            <AnimatedSection duration={300} show={open} className='absolute top-12 right-0' >
+            <AnimatedSection duration={300} show={open} className='z-10 absolute top-12 right-0' >
                 <ul className="w-32 p-2 rounded-md shadow-lg bg-gray-100 ring-1 ring-primary ring-opacity-5 mt-2 text-black">
                     {locales.map((locale, index) => (
                         <li key={`${locale}-${index}}`}>

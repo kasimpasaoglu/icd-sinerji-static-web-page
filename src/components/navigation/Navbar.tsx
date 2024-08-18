@@ -41,7 +41,7 @@ const Navbar = ({ locale }: NavbarProps) => {
 
     return (
         <Disclosure as="nav" className="bg-gray-400 sticky top-0 z-50">
-            {({ open }: { open: boolean }) => (
+            {({ open, close }: { open: boolean, close:() => void }) => (
                 <>
                     <div className="mx-auto max-w-7xl px-2">
                         <div className="relative flex h-16 items-center justify-between">
@@ -71,7 +71,7 @@ const Navbar = ({ locale }: NavbarProps) => {
                         </div>
                     </div>
                     {/* Mobile */}
-                    <MobileMenu open={open} navigation={navigation} />
+                    <MobileMenu onClose={() => close()} open={open} navigation={navigation} />
                 </>
             )}
         </Disclosure>
