@@ -17,8 +17,6 @@ const LastProjects = () => {
     const projects:Project[] = y.raw("Referanslar").projects
     const lastProjects = projects.slice(-3)
 
-    console.log("locale,", locale)
-
     return (
         <div className="last-projects-wrapper">
             <h4 className="last-projects-title">{f('projectsTitle')}</h4>

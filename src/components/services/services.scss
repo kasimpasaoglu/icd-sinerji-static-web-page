@@ -29,7 +29,7 @@
         }
 
         .main-image-wrapper {
-            @apply relative bg-gray-100 w-full h-full rounded-lg overflow-hidden;
+            @apply relative bg-gray-100 aspect-square lg:aspect-auto h-full w-full rounded-lg overflow-hidden;
         }
     }
 }

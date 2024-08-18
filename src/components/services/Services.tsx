@@ -47,7 +47,7 @@ const Services = () => {
 
                                 <GenericCard
                                     imageSrc={item.image}
-                                    imageAlt={item.title}
+                                    imageAlt={`${item.title.split(' ')[0]}`}
                                     title={item.title}
                                     description={item.description}
                                 />

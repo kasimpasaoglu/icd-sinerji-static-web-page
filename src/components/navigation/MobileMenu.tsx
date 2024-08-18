@@ -6,29 +6,19 @@ import { ChevronDownIcon } from "@heroicons/react/24/outline"
 import clsx from "clsx"
 import Link from 'next/link'
 import { Navigation } from '@/type/Common'
-import { useEffect, useState } from "react"
-import { useClickOutside } from "@mantine/hooks"
 
 
 
 interface MobileMenuProps {
     open: boolean
     navigation: Navigation
-    onClose: () => void
+
 }
 
-
-
-const MobileMenu = ({ open, navigation, onClose }: MobileMenuProps) => {
-
-
-    const ref = useClickOutside(() => onClose())
-
-
-
+const MobileMenu = ({ open, navigation }: MobileMenuProps) => {
 
     return (
-        <div ref={ref} className={clsx("icd-mobile-menu", open ? "max-h-[450px]" : "max-h-0")}>
+        <div className={clsx("icd-mobile-menu", open ? "max-h-[450px]" : "max-h-0")}>
             <div className="wrapper">
                 {navigation.items.map((item) => (
                     <div key={item.name}>

@@ -30,7 +30,7 @@ const ReferencesCards = ({ title, images }: ReferancesCardsProps) => {
                         <div key={index} className="relative aspect-square">
                             <Image
                                 src={src}
-                                alt={`Legend ${index + 1}`}
+                                alt={`${title} ${index + 1}`}
                                 fill
                                 sizes="(max-width: 768px) 100vw, (max-width: 1024px) 70wv, 50vw"
                                 style={{ objectFit: 'cover' }}

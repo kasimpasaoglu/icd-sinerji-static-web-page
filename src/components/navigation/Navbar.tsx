@@ -1,14 +1,12 @@
 "use client"
 
-import { Disclosure, DisclosureButton } from '@headlessui/react'
-import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
+import { Disclosure } from '@headlessui/react'
 import { useTranslations } from 'next-intl'
 import { usePathname } from 'next/navigation'
-import Image from 'next/image'
 import MobileMenu from './MobileMenu'
-import { Navigation } from '@/type/Common'
-import DesktopMenu from './DesktopMenu'
-import LanguageSelector from './LanguageSelector'
+import { Navigation  as NavigationType} from '@/type/Common'
+import Navigation from './Navigation'
+
 
 
 interface NavbarProps {
@@ -37,41 +35,13 @@ const Navbar = ({ locale }: NavbarProps) => {
             { name: t('Partnerlerimiz'), href: `/${locale}/partnerlerimiz`, isActive: pathname.includes(`partnerlerimiz`) },
             { name: t('Iletisim'), href: `/${locale}/iletisim`, isActive: pathname.includes(`iletisim`) },
         ]
-    } as Navigation;
+    } as NavigationType;
 
     return (
         <Disclosure as="nav" className="bg-gray-400 sticky top-0 z-50">
             {({ open, close }: { open: boolean, close:() => void }) => (
                 <>
-                    <div className="mx-auto max-w-7xl px-2">
-                        <div className="relative flex h-16 items-center justify-between">
-                            <div className="flex flex-1 items-center justify-between lg:justify-start">
-                                <DisclosureButton className="group inline-flex relative lg:hidden items-center justify-center rounded-md p-2 ring-2 ring-inset ring-white bg-primary">
-                                    <span className="absolute -inset-0.5" />
-                                    <span className="sr-only">Open main menu</span>
-                                    <Bars3Icon aria-hidden="true" className="text-white block h-6 w-6 group-data-[open]:hidden" />
-                                    <XMarkIcon aria-hidden="true" className="text-white hidden h-6 w-6 group-data-[open]:block" />
-                                </DisclosureButton>
-                                <div className="flex flex-shrink-0 items-center relative w-20 h-10">
-                                    <Image
-                                        src='/assets/logo/icd-logo-only.png'
-                                        alt='logo'
-                                        fill
-                                        sizes='20vw'
-                                        style={{ objectFit: 'contain' }}
-                                        priority
-                                        className='drop-shadow-lg'
-                                    />
-                                </div>
-                                <DesktopMenu navigation={navigation} />
-                                <div className='lg:ml-auto'>
-                                <LanguageSelector />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    {/* Mobile */}
-                    <MobileMenu onClose={() => close()} open={open} navigation={navigation} />
+                    <Navigation onClose={() => close()} navigation={navigation} open={open}/>                    
                 </>
             )}
         </Disclosure>

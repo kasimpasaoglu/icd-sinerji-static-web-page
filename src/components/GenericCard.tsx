@@ -21,7 +21,7 @@ const GenericCard = ({ imageSrc, imageAlt, title, description, subTitle }: Gener
                 src={imageSrc}
                 alt={imageAlt}
                 fill
-                sizes="(max-width: 1024px) 30vw, 40vw"
+                sizes="(max-width: 1024px) 70vw, 40vw"
                 style={{objectFit: "cover"}} 
                 className="rounded-3xl" />
             </div>

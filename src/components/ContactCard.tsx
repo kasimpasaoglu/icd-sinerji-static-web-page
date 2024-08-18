@@ -29,23 +29,24 @@ const ContactCard = ({ className = "p-6 z-10 col-span-1 bg-primarydark" }: Conta
             <h5 className='text-white mb-4'>{f('contactSubtitle')}</h5>
 
             <div className="flex mb-4">
-                <MapPinIcon className="flex-none w-5 h-5 mr-2" />
+                <MapPinIcon className="text-white flex-none w-5 h-5 mr-2" />
                 <span className='text-white'>{f('address')}</span>
             </div>
 
             <div className="flex text-white mb-4">
-                <PhoneIcon className="flex-none w-5 h-5 mr-2" />
+                <PhoneIcon className="text-white flex-none w-5 h-5 mr-2" />
                 <span className='text-white'>{f('phone')}</span>
             </div>
 
             <div className="flex text-white mb-4">
-                <EnvelopeIcon className="flex-none w-5 h-5 mr-2" />
+                <EnvelopeIcon className="text-white flex-none w-5 h-5 mr-2" />
                 <span className='text-white'>{f('mail')}</span>
             </div>
 
             <div className="flex space-x-4">
                 <p>{f('socialmedia')}</p>
                 <a
+                    aria-label='Instagram'
                     href={t('instagram')}
                     target="_blank"
                     rel="noopener noreferrer"
@@ -54,6 +55,7 @@ const ContactCard = ({ className = "p-6 z-10 col-span-1 bg-primarydark" }: Conta
                     <FaInstagram className="flex-none w-6 h-6" />
                 </a>
                 <a
+                    aria-label='LinkedIn'
                     href={t('linkedIn')}
                     target="_blank"
                     rel="noopener noreferrer"
@@ -62,6 +64,7 @@ const ContactCard = ({ className = "p-6 z-10 col-span-1 bg-primarydark" }: Conta
                     <FaLinkedin className="flex-none w-6 h-6" />
                 </a>
                 <a
+                    aria-label='WhatsApp'
                     href={t('whatsapp')}
                     target="_blank"
                     rel="noopener noreferrer"

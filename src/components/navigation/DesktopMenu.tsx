@@ -26,7 +26,7 @@ const DesktopMenu = ({ navigation }: DesktopMenuProps) => {
                     ) : (
                         <div key={item.name} className='subwrapper group'>
                             <button
-                                className={clsx("sublink-button", item.isActive && "active")}
+                                type="button" className={clsx("sublink-button", item.isActive && "active")}
                             >
                                 {item.name}
                             </button>

@@ -45,9 +45,9 @@ const SubServices = ({ indexNumber }: { indexNumber: number }) => {
                             <div className="relative w-full h-full">
                                 <Image
                                     src={imageAlternate}
-                                    alt={`${title} 2`}
+                                    alt={`${title.split(' ')[0]} 2`}
                                     fill
-                                    sizes="(max-width: 1024px) 50vw, 40vw"
+                                    sizes="(max-width: 1024px) 70vw, 50vw"
                                     className="object-cover rounded-lg p-2"
                                 />
                             </div>
@@ -74,9 +74,9 @@ const SubServices = ({ indexNumber }: { indexNumber: number }) => {
                         className="main-image-wrapper">
                         <Image
                             src={image}
-                            alt={title}
+                            alt={`${title.split(' ')[0]} 1`}
                             fill
-                            sizes="(max-width: 1024px) 40vw, 40vw"
+                            sizes="(max-width: 1024px) 70vw, 50vw"
                             className="object-cover rounded-lg p-2"
                             priority
                         />
